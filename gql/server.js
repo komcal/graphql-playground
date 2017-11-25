@@ -5,10 +5,12 @@ import {
 } from 'graphql-server-express';
 import morgan from 'morgan';
 import bodyParser from 'body-parser';
+import cors from 'cors';
 import { schema } from './schema';
 
 const app = express();
 
+app.use('*', cors({ origin: 'http://localhost:3000' }));
 app.use(morgan('dev'));
 
 app.use('/graphql', bodyParser.json(), graphqlExpress({ schema }));
