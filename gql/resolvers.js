@@ -4,6 +4,8 @@ export const resolvers = {
   Query: {
     idols: () => idols,
     groups: () => groups,
+    group: (root, { name }) =>
+      groups.find(group => group.name === name)
   },
   Group: {
     idols: (root) =>
@@ -11,6 +13,9 @@ export const resolvers = {
   },
   Idol: {
     group: (root) =>
-      groups.find(group => group.id === root.group)
+      groups.find(group => group.id === root.group),
+    height: (root, { unit = 'cm' }) => {
+      return unit === 'cm' ? root.height : parseFloat((root.height / 30).toFixed(2))
+    }
   }
 }

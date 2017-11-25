@@ -5,6 +5,10 @@ import {
 import { resolvers } from './resolvers';
 
 const typeDefs = `
+  enum HeightUnit {
+    cm
+    foot
+  }
   type Group {
     id: ID!
     name: String
@@ -23,7 +27,7 @@ const typeDefs = `
     birthplace: String
     bloodType: String
     age: Int
-    height: Float
+    height(unit: HeightUnit): Float
     agency: String
     generation: String
     group: Group
@@ -31,6 +35,8 @@ const typeDefs = `
   type Query {
     idols: [Idol]
     groups: [Group]
+    group(name: String!): Group
+    idol: Idol
   }
 `
 
