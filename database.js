@@ -13,7 +13,7 @@ export const groups = [{
 ];
 export const idols = [{
     "id": "1",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:CherprangAreekulBNK2017.jpg",
     "romaji": "Cherprang Areekul",
@@ -29,7 +29,7 @@ export const idols = [{
   },
   {
     "id": "2",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:ChristinLarsenBNK2017.jpg",
     "romaji": "Christin Larsen",
@@ -45,7 +45,7 @@ export const idols = [{
   },
   {
     "id": "3",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:IradaTavachphongsriBNK2017.jpg",
     "romaji": "Irada Tavachphongsri",
@@ -61,7 +61,7 @@ export const idols = [{
   },
   {
     "id": "4",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:IsarapaThawatpakdeeBNK2017.jpg",
     "romaji": "Isarapa Thawatpakdee",
@@ -77,7 +77,7 @@ export const idols = [{
   },
   {
     "id": "5",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:JennisOprasertBNK2017.jpg",
     "romaji": "Jennis Oprasert",
@@ -93,7 +93,7 @@ export const idols = [{
   },
   {
     "id": "6",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:JetsupaKruetangBNK2017.jpg",
     "romaji": "Jetsupa Kruetang",
@@ -109,7 +109,7 @@ export const idols = [{
   },
   {
     "id": "7",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:JiradapaIntajakBNK2017.jpg",
     "romaji": "Jiradapa Intajak",
@@ -125,7 +125,7 @@ export const idols = [{
   },
   {
     "id": "8",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:KanteeraWadcharathadsanakulBNK2017.jpg",
     "romaji": "Kanteera Wadcharathadsanakul",
@@ -141,7 +141,7 @@ export const idols = [{
   },
   {
     "id": "9",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:KorapatNilprapaBNK2017.jpg",
     "romaji": "Korapat Nilprapa",
@@ -157,7 +157,7 @@ export const idols = [{
   },
   {
     "id": "10",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:KunjiranutIntarasinBNK2017.jpg",
     "romaji": "Kunjiranut Intarasin",
@@ -173,7 +173,7 @@ export const idols = [{
   },
   {
     "id": "11",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:MananyaKaojuBNK2017.jpg",
     "romaji": "Mananya Kaoju",
@@ -189,7 +189,7 @@ export const idols = [{
   },
   {
     "id": "12",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:MesaChinavicharanaBNK2017.jpg",
     "romaji": "Mesa Chinavicharana",
@@ -205,7 +205,7 @@ export const idols = [{
   },
   {
     "id": "13",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:MilinDokthianBNK2017.jpg",
     "romaji": "Milin Dokthian",
@@ -221,7 +221,7 @@ export const idols = [{
   },
   {
     "id": "14",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:MioriOhkuboBNK2017.jpg",
     "romaji": "Miori Ohkubo",
@@ -237,7 +237,7 @@ export const idols = [{
   },
   {
     "id": "15",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:NapaphatWorraphuttanonBNK2017.jpg",
     "romaji": "Napaphat Worraphuttanon",
@@ -253,7 +253,7 @@ export const idols = [{
   },
   {
     "id": "16",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:NatrujaChutiwansoponBNK2017.jpg",
     "romaji": "Natruja Chutiwansopon",
@@ -269,7 +269,7 @@ export const idols = [{
   },
   {
     "id": "17",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:NayikaSrinianBNK2017.jpg",
     "romaji": "Nayika Srinian",
@@ -285,7 +285,7 @@ export const idols = [{
   },
   {
     "id": "18",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:PanisaSrilaloengBNK2017.jpg",
     "romaji": "Panisa Srilaloeng",
@@ -301,7 +301,7 @@ export const idols = [{
   },
   {
     "id": "19",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:PatchananJiajirachoteBNK2017.jpg",
     "romaji": "Patchanan Jiajirachote",
@@ -317,7 +317,7 @@ export const idols = [{
   },
   {
     "id": "20",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:PichayapaNathaBNK2017.jpg",
     "romaji": "Pichayapa Natha",
@@ -333,7 +333,7 @@ export const idols = [{
   },
   {
     "id": "21",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:PimrapatPhadungwatanachokBNK2017.jpg",
     "romaji": "Pimrapat Phadungwatanachok",
@@ -349,7 +349,7 @@ export const idols = [{
   },
   {
     "id": "22",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:PraewaSuthamphongBNK2017.jpg",
     "romaji": "Praewa Suthamphong",
@@ -365,7 +365,7 @@ export const idols = [{
   },
   {
     "id": "23",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:PunsikornTiyakornBNK2017.jpg",
     "romaji": "Punsikorn Tiyakorn",
@@ -381,7 +381,7 @@ export const idols = [{
   },
   {
     "id": "24",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:RinradaInthaisongBNK2017.jpg",
     "romaji": "Rinrada Inthaisong",
@@ -397,7 +397,7 @@ export const idols = [{
   },
   {
     "id": "25",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:SawitchayaKajonrungsilpBNK2017.jpg",
     "romaji": "Sawitchaya Kajonrungsilp",
@@ -413,7 +413,7 @@ export const idols = [{
   },
   {
     "id": "26",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:SuchayaSaenkhotBNK2017.jpg",
     "romaji": "Suchaya Saenkhot",
@@ -429,7 +429,7 @@ export const idols = [{
   },
   {
     "id": "27",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:VathusiriPhuwapunyasiriBNK2017.jpg",
     "romaji": "Vathusiri Phuwapunyasiri",
@@ -445,7 +445,7 @@ export const idols = [{
   },
   {
     "id": "28",
-    "group": "BNK48",
+    "group": "1",
     "team": "Trainee",
     "picture": "http://stage48.net/wiki/index.php/File:WarattayaDeesomlertBNK2017.jpg",
     "romaji": "Warattaya Deesomlert",
@@ -461,7 +461,7 @@ export const idols = [{
   },
   {
     "id": "29",
-    "group": "AKB48",
+    "group": "2",
     "team": "A",
     "picture": "http://stage48.net/wiki/index.php/File:IriyamaAnnaA2017.jpg",
     "romaji": "Iriyama Anna",
@@ -477,7 +477,7 @@ export const idols = [{
   },
   {
     "id": "30",
-    "group": "AKB48",
+    "group": "2",
     "team": "A",
     "picture": "http://stage48.net/wiki/index.php/File:OyaShizuka2017.jpg",
     "romaji": "Oya Shizuka",
@@ -493,7 +493,7 @@ export const idols = [{
   },
   {
     "id": "31",
-    "group": "AKB48",
+    "group": "2",
     "team": "A",
     "picture": "http://stage48.net/wiki/index.php/File:KojimaNatsuki2017.jpg",
     "romaji": "Kojima Natsuki",
@@ -509,7 +509,7 @@ export const idols = [{
   },
   {
     "id": "32",
-    "group": "AKB48",
+    "group": "2",
     "team": "A",
     "picture": "http://stage48.net/wiki/index.php/File:SasakiYukari2017.jpg",
     "romaji": "Sasaki Yukari",
@@ -525,7 +525,7 @@ export const idols = [{
   },
   {
     "id": "33",
-    "group": "AKB48",
+    "group": "2",
     "team": "M / A",
     "picture": "http://stage48.net/wiki/index.php/File:ShiromaMiruA2017.jpg",
     "romaji": "Shiroma Miru",
@@ -541,7 +541,7 @@ export const idols = [{
   },
   {
     "id": "34",
-    "group": "AKB48",
+    "group": "2",
     "team": "A",
     "picture": "http://stage48.net/wiki/index.php/File:TakitaKayoko2017.jpg",
     "romaji": "Takita Kayoko",
@@ -557,7 +557,7 @@ export const idols = [{
   },
   {
     "id": "35",
-    "group": "AKB48",
+    "group": "2",
     "team": "A",
     "picture": "http://stage48.net/wiki/index.php/File:TaniguchiMegu2017.jpg",
     "romaji": "Taniguchi Megu",
@@ -573,7 +573,7 @@ export const idols = [{
   },
   {
     "id": "36",
-    "group": "AKB48",
+    "group": "2",
     "team": "A",
     "picture": "http://stage48.net/wiki/index.php/File:NakanishiChiyori2017.jpg",
     "romaji": "Nakanishi Chiyori",
@@ -589,7 +589,7 @@ export const idols = [{
   },
   {
     "id": "37",
-    "group": "AKB48",
+    "group": "2",
     "team": "A",
     "picture": "http://stage48.net/wiki/index.php/File:HiwatashiYui2017.jpg",
     "romaji": "Hiwatashi Yui",
@@ -605,7 +605,7 @@ export const idols = [{
   },
   {
     "id": "38",
-    "group": "AKB48",
+    "group": "2",
     "team": "A",
     "picture": "http://stage48.net/wiki/index.php/File:MiyazakiMiho2017.jpg",
     "romaji": "Miyazaki Miho",
@@ -621,7 +621,7 @@ export const idols = [{
   },
   {
     "id": "39",
-    "group": "AKB48",
+    "group": "2",
     "team": "KIV / A",
     "picture": "http://stage48.net/wiki/index.php/File:MiyawakiSakuraA2017.jpg",
     "romaji": "Miyawaki Sakura",
@@ -637,7 +637,7 @@ export const idols = [{
   },
   {
     "id": "40",
-    "group": "AKB48",
+    "group": "2",
     "team": "8 / A",
     "picture": "http://stage48.net/wiki/index.php/File:YamadaNanami82017.jpg",
     "romaji": "Yamada Nanami",
@@ -653,7 +653,7 @@ export const idols = [{
   },
   {
     "id": "41",
-    "group": "AKB48",
+    "group": "2",
     "team": "A",
     "picture": "http://stage48.net/wiki/index.php/File:YokoyamaYui2017.jpg",
     "romaji": "Yokoyama Yui",
@@ -669,7 +669,7 @@ export const idols = [{
   },
   {
     "id": "42",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:AbeMariaK2017.jpg",
     "romaji": "Abe Maria",
@@ -685,7 +685,7 @@ export const idols = [{
   },
   {
     "id": "43",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:IchikawaManamiK2017.jpg",
     "romaji": "Ichikawa Manami",
@@ -701,7 +701,7 @@ export const idols = [{
   },
   {
     "id": "44",
-    "group": "AKB48",
+    "group": "2",
     "team": "H / K",
     "picture": "http://stage48.net/wiki/index.php/File:KodamaHarukaK2017.jpg",
     "romaji": "Kodama Haruka",
@@ -717,7 +717,7 @@ export const idols = [{
   },
   {
     "id": "45",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:KuboSatoneKKS2017.jpg",
     "romaji": "Kubo Satone",
@@ -733,7 +733,7 @@ export const idols = [{
   },
   {
     "id": "46",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:ShinozakiAyanaK2017.jpg",
     "romaji": "Shinozaki Ayana",
@@ -749,7 +749,7 @@ export const idols = [{
   },
   {
     "id": "47",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:ShimadaHarukaK2017.jpg",
     "romaji": "Shimada Haruka",
@@ -765,7 +765,7 @@ export const idols = [{
   },
   {
     "id": "48",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:ShimoguchiHinanaK2017.jpg",
     "romaji": "Shimoguchi Hinana",
@@ -781,7 +781,7 @@ export const idols = [{
   },
   {
     "id": "49",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:TanoYukaK2017.jpg",
     "romaji": "Tano Yuuka",
@@ -797,7 +797,7 @@ export const idols = [{
   },
   {
     "id": "50",
-    "group": "AKB48",
+    "group": "2",
     "team": "8 / K",
     "picture": "http://stage48.net/wiki/index.php/File:NakanoIkumi82017.jpg",
     "romaji": "Nakano Ikumi",
@@ -813,7 +813,7 @@ export const idols = [{
   },
   {
     "id": "51",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:FujitaNanaK2017.jpg",
     "romaji": "Fujita Nana",
@@ -829,7 +829,7 @@ export const idols = [{
   },
   {
     "id": "52",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:MinegishiMinamiK2017.jpg",
     "romaji": "Minegishi Minami",
@@ -845,7 +845,7 @@ export const idols = [{
   },
   {
     "id": "53",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:MukaichiMionK2017.jpg",
     "romaji": "Mukaichi Mion",
@@ -861,7 +861,7 @@ export const idols = [{
   },
   {
     "id": "54",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:MutoTomuK2017.jpg",
     "romaji": "Mutou Tomu",
@@ -877,7 +877,7 @@ export const idols = [{
   },
   {
     "id": "55",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:MogiShinobuK2017.jpg",
     "romaji": "Mogi Shinobu",
@@ -893,7 +893,7 @@ export const idols = [{
   },
   {
     "id": "56",
-    "group": "AKB48",
+    "group": "2",
     "team": "K",
     "picture": "http://stage48.net/wiki/index.php/File:YumotoAmiK2017.jpg",
     "romaji": "Yumoto Ami",
@@ -909,7 +909,7 @@ export const idols = [{
   },
   {
     "id": "57",
-    "group": "AKB48",
+    "group": "2",
     "team": "B / NIII",
     "picture": "http://stage48.net/wiki/index.php/File:KashiwagiYukiB2017.jpg",
     "romaji": "Kashiwagi Yuki",
@@ -925,7 +925,7 @@ export const idols = [{
   },
   {
     "id": "58",
-    "group": "AKB48",
+    "group": "2",
     "team": "B",
     "picture": "http://stage48.net/wiki/index.php/File:KatoRena2017.jpg",
     "romaji": "Kato Rena",
@@ -941,7 +941,7 @@ export const idols = [{
   },
   {
     "id": "59",
-    "group": "AKB48",
+    "group": "2",
     "team": "B",
     "picture": "http://stage48.net/wiki/index.php/File:GotoMoeB2017.jpg",
     "romaji": "Goto Moe",
@@ -957,7 +957,7 @@ export const idols = [{
   },
   {
     "id": "60",
-    "group": "AKB48",
+    "group": "2",
     "team": "8 / B",
     "picture": "http://stage48.net/wiki/index.php/File:SakaguchiNagisa82017.jpg",
     "romaji": "Sakaguchi Nagisa",
@@ -973,7 +973,7 @@ export const idols = [{
   },
   {
     "id": "61",
-    "group": "AKB48",
+    "group": "2",
     "team": "B",
     "picture": "http://stage48.net/wiki/index.php/File:TakeuchiMiyuB2017.jpg",
     "romaji": "Takeuchi Miyu",
@@ -989,7 +989,7 @@ export const idols = [{
   },
   {
     "id": "62",
-    "group": "AKB48",
+    "group": "2",
     "team": "B",
     "picture": "http://stage48.net/wiki/index.php/File:TatsuyaMakihoB2017.jpg",
     "romaji": "Tatsuya Makiho",
@@ -1005,7 +1005,7 @@ export const idols = [{
   },
   {
     "id": "63",
-    "group": "AKB48",
+    "group": "2",
     "team": "B",
     "picture": "http://stage48.net/wiki/index.php/File:NishikawaReiKKS2017.jpg",
     "romaji": "Nishikawa Rei",
@@ -1021,7 +1021,7 @@ export const idols = [{
   },
   {
     "id": "64",
-    "group": "AKB48",
+    "group": "2",
     "team": "B",
     "picture": "http://stage48.net/wiki/index.php/File:FukuokaSeinaB2017.jpg",
     "romaji": "Fukuoka Seina",
@@ -1037,7 +1037,7 @@ export const idols = [{
   },
   {
     "id": "65",
-    "group": "AKB48",
+    "group": "2",
     "team": "B",
     "picture": "http://stage48.net/wiki/index.php/File:MaChiaLingB2017.jpg",
     "romaji": "Ma Chia-Ling",
@@ -1053,7 +1053,7 @@ export const idols = [{
   },
   {
     "id": "66",
-    "group": "AKB48",
+    "group": "2",
     "team": "H / B",
     "picture": "http://stage48.net/wiki/index.php/File:YabukiNakoB2017.jpg",
     "romaji": "Yabuki Nako",
@@ -1069,7 +1069,7 @@ export const idols = [{
   },
   {
     "id": "67",
-    "group": "AKB48",
+    "group": "2",
     "team": "B",
     "picture": "http://stage48.net/wiki/index.php/File:YamabeAyuKKS2017.jpg",
     "romaji": "Yamabe Ayu",
@@ -1085,7 +1085,7 @@ export const idols = [{
   },
   {
     "id": "68",
-    "group": "AKB48",
+    "group": "2",
     "team": "B",
     "picture": "http://stage48.net/wiki/index.php/File:WatanabeMayuB2017.jpg",
     "romaji": "Watanabe Mayu",
