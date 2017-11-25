@@ -9,11 +9,15 @@ const typeDefs = `
     cm
     foot
   }
+  enum YearUnit {
+    AD
+    BE
+  }
   type Group {
     id: ID!
     name: String
     location: String
-    since: Int
+    since(unit: YearUnit): Int
     idols: [Idol]
   }
   type Idol {
@@ -37,6 +41,9 @@ const typeDefs = `
     groups: [Group]
     group(name: String!): Group
     idol: Idol
+  }
+  type Mutation {
+    addIdol(name: String, group: String): Idol
   }
 `
 
